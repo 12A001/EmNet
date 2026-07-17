@@ -3,8 +3,7 @@
 
     <!-- Animated Plane -->
     <div class="relative w-full max-w-md h-32 mb-8">
-      <Plane class="w-6 h-6" />
-      <div class="w-full h-1 bg-[#60a5fa]/20 absolute top-1/2 -translate-y-1/2 rounded-full"></div>
+<Plane class="w-6 h-6" />      <div class="w-full h-1 bg-[#60a5fa]/20 absolute top-1/2 -translate-y-1/2 rounded-full"></div>
     </div>
 
     <!-- Heading -->
