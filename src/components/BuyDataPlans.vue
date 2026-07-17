@@ -50,7 +50,7 @@
 <script setup>
 import mtnLogo from '@/assets/images/New-mtn-logo.jpg'
 import airtelLogo from '@/assets/images/Airtel_logo-01.png'
-import gloLogo from '@/assets/images/glo-logo.jpg'
+import gloLogo from '@/assets/images/glo-Logo.jpg'
 import mobile9Logo from '@/assets/images/9mobile-1.svg'
 import defaultLogo from '@/assets/images/emnet-logo.jpg'
 
