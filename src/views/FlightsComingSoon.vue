@@ -24,7 +24,7 @@
 import * as LucideIcons from 'lucide-vue-next'
 
 // Correctly get the Airplane icon
-const Airplane = LucideIcons.Airplane
+const Plane = LucideIcons.Plane
 </script>
 
 <style scoped>
