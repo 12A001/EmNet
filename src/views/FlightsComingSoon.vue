@@ -3,7 +3,7 @@
 
     <!-- Animated Plane -->
     <div class="relative w-full max-w-md h-32 mb-8">
-      <Airplane class="absolute w-12 h-12 text-[#003366] plane" />
+      <Plane class="w-6 h-6" />
       <div class="w-full h-1 bg-[#60a5fa]/20 absolute top-1/2 -translate-y-1/2 rounded-full"></div>
     </div>
 
@@ -21,10 +21,7 @@
 </template>
 
 <script setup>
-import * as LucideIcons from 'lucide-vue-next'
-
-// Correctly get the Airplane icon
-const Plane = LucideIcons.Plane
+import { Plane } from 'lucide-vue-next'
 </script>
 
 <style scoped>
